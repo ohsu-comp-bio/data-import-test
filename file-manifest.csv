@@ -1,0 +1,4 @@
+File_name    File_size    md5sum    bucket_urls
+file-1MB.1.txt    1000000    b6d81b360a5672d80c27430f39153e2c    s3://cbds/data-import-test/DATA/file-1MB.1.txt
+file-1MB.2.txt    1000000    b6d81b360a5672d80c27430f39153e2c    s3://cbds/data-import-test/DATA/file-1MB.2.txt
+file-1MB.3.txt    1000000    b6d81b360a5672d80c27430f39153e2c    s3://cbds/data-import-test/DATA/file-1MB.3.txt

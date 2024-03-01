@@ -1,0 +1,2 @@
+bucket    authz
+s3://cbds/data-import-test    data_upload

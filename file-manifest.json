@@ -1,0 +1,41 @@
+[
+  {
+    "object_id": "bda45761-f6d5-543c-82ab-e459b94b96c1",
+    "file_name": "DATA/file-1MB.1.txt",
+    "size": 1048576,
+    "modified": "2023-11-02T11:11:10.707559",
+    "md5": "b6d81b360a5672d80c27430f39153e2c",
+    "mime_type": "text/plain",
+    "observation_id": null,
+    "patient_id": null,
+    "specimen_id": null,
+    "task_id": null,
+    "remote_path": null
+  },
+  {
+    "object_id": "4c1a042a-d3ca-5dd3-9804-c47fc918f733",
+    "file_name": "DATA/file-1MB.2.txt",
+    "size": 1048576,
+    "modified": "2023-11-02T11:11:10.717190",
+    "md5": "b6d81b360a5672d80c27430f39153e2c",
+    "mime_type": "text/plain",
+    "observation_id": null,
+    "patient_id": null,
+    "specimen_id": null,
+    "task_id": null,
+    "remote_path": null
+  },
+  {
+    "object_id": "f7fd0788-6e5b-50f3-a549-aaa81ce30e16",
+    "file_name": "DATA/file-1MB.3.txt",
+    "size": 1048576,
+    "modified": "2023-11-02T11:11:10.724266",
+    "md5": "b6d81b360a5672d80c27430f39153e2c",
+    "mime_type": "text/plain",
+    "observation_id": null,
+    "patient_id": null,
+    "specimen_id": null,
+    "task_id": null,
+    "remote_path": null
+  }
+]

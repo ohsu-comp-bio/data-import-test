@@ -1,0 +1,4 @@
+guid	name	size	md5	url	auth
+	file-1MB.1.txt	1000000	b6d81b360a5672d80c27430f39153e2c	s3://cbds/data-import-test	data_upload
+	file-1MB.2.txt	1000000	b6d81b360a5672d80c27430f39153e2c	s3://cbds/data-import-test	data_upload
+	file-1MB.3.txt	1000000	b6d81b360a5672d80c27430f39153e2c	s3://cbds/data-import-test	data_upload
