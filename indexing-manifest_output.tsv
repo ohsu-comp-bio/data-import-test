@@ -1,4 +1,4 @@
-guid	name	size	md5	urls	auth
-PREFIX/a4e60a4a-f690-467b-b15f-1c85d2a99811	file-1MB.1.txt	1000000	b6d81b360a5672d80c27430f39153e2c	s3://cbds/data-import-test	data_upload
-PREFIX/449ed3ba-9632-4369-a65a-27bda862ef8e	file-1MB.2.txt	1000000	b6d81b360a5672d80c27430f39153e2c	s3://cbds/data-import-test	data_upload
-PREFIX/1e9de28e-adf2-4ee9-b327-ef6515168a20	file-1MB.3.txt	1000000	b6d81b360a5672d80c27430f39153e2c	s3://cbds/data-import-test	data_upload
+guid	name	size	md5	urls	authz
+PREFIX/f7b0918e-6e82-42f0-b59c-1bb6b8840d59	file-1MB.1.txt	1000000	b6d81b360a5672d80c27430f39153e2c	s3://data-import-test	/programs/ohsu/projects/joseph_test
+PREFIX/eaf5149c-1db7-4efc-b687-2b4415b9c5e0	file-1MB.2.txt	1000000	b6d81b360a5672d80c27430f39153e2c	s3://data-import-test	/programs/ohsu/projects/joseph_test
+PREFIX/a4bd4545-5210-4bb2-bee9-375f475221b1	file-1MB.3.txt	1000000	b6d81b360a5672d80c27430f39153e2c	s3://data-import-test	/programs/ohsu/projects/joseph_test
